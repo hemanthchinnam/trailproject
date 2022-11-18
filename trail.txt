@@ -1,2 +1,1 @@
-this is a trail txt file.
-You can make changes you wish.
+You are now viewing the changed trail project.
